@@ -1,0 +1,18 @@
+.card {
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    margin: 20% auto auto auto;
+    width: 500px;
+  }
+  
+  .btn{
+    padding: 1% 20% 1% 20%;
+    color: 'white';
+    font-weight: bold;
+  }
+  
+  .card-header{
+    color: '#23a927 ';
+    font-Weight: 'bold';
+  }
